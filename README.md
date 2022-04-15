@@ -1,2 +1,2 @@
 # GDM-command-tool
-command line downloader write by go
+一个用Go编写的命令行下载工具
